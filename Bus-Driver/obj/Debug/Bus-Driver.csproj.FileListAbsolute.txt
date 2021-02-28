@@ -1,0 +1,9 @@
+C:\Users\Razer\source\repos\Bus-Driver\Bus-Driver\bin\Debug\Bus-Driver.dll
+C:\Users\Razer\source\repos\Bus-Driver\Bus-Driver\bin\Debug\Bus-Driver.pdb
+C:\Users\Razer\source\repos\Bus-Driver\Bus-Driver\bin\Debug\ScriptHookVDotNet2.dll
+C:\Users\Razer\source\repos\Bus-Driver\Bus-Driver\bin\Debug\ScriptHookVDotNet2.xml
+C:\Users\Razer\source\repos\Bus-Driver\Bus-Driver\obj\Debug\Bus-Driver.csprojAssemblyReference.cache
+C:\Users\Razer\source\repos\Bus-Driver\Bus-Driver\obj\Debug\Bus-Driver.csproj.CoreCompileInputs.cache
+C:\Users\Razer\source\repos\Bus-Driver\Bus-Driver\obj\Debug\Bus-Driver.csproj.CopyComplete
+C:\Users\Razer\source\repos\Bus-Driver\Bus-Driver\obj\Debug\Bus-Driver.dll
+C:\Users\Razer\source\repos\Bus-Driver\Bus-Driver\obj\Debug\Bus-Driver.pdb
